@@ -30,3 +30,9 @@ git commit -m "MESSAGE"
 - commits the stashed files to the repo, and adds 
 the MESSAGE that describes what was done
 
+
+## Other Git Things
+
+**.gitignore** is a file that tells git files/folders that are
+not to be part of the repository (that is - ignored when 
+adding/commiting)
